@@ -1,6 +1,7 @@
 This program allows you to record yourself in the template of a streamer with a black canvas to draw.
 Sound not available for now. Recording speed to be changed in the (far, far) future.
 To use:
+- install python
 - install opencv
 - run hello.py
 - hold left-mouse-button on the black canvas to draw
