@@ -9,5 +9,6 @@ To use:
 - output video will be saved to the same directory as the program
 - if video format cannot be played you can convert to an appropriate video format using online tools
 - play the video
-- then pray for my programming career
+- then pray for my programming career.
+
 Thank you.
