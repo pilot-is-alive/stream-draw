@@ -14,7 +14,7 @@ img_blackboard = np.zeros(win_size, np.uint8)
 cv.namedWindow('image')
 
 fourcc = cv.VideoWriter_fourcc(*'avc1')
-out = cv.VideoWriter('output.mp4', fourcc,45.0, (win_size_width, win_size_height))
+out = cv.VideoWriter('output.mp4', fourcc,30.0, (win_size_width, win_size_height))
 
 if not video_webcam.isOpened():
   print("Couldn't open video webcam capture")
